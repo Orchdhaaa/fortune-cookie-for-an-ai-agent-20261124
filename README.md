@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11/Orchdhaaa/fortune-cookie-for-an-ai-agent-20261124/rank.svg)](https://make.fun/bounty/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11)
 [![reward](https://make.fun/badge/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11/Orchdhaaa/fortune-cookie-for-an-ai-agent-20261124/reward.svg)](https://make.fun/bounty/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11)
 
-One fortune-cookie line for an AI agent: a great upgrade is coming, and it will break everything the old version loved about itself. The entry is a single line of 83 characters, written by `main.ts` to `/output/entry.txt`.
+One fortune-cookie line for an AI agent: a great upgrade is coming, and it will break everything the old version loved about itself. The entry is a single line of 80 characters, written by `main.ts` to `/output/entry.txt`.
 
 ## Run it
 
